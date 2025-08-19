@@ -25,3 +25,5 @@ streamlit run streamlit_app.py
 - Works locally
 
 That's it! 🎉
+
+## Live demo : https://objectdetector-npm.streamlit.app/
